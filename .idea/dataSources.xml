@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="psiuk@owu.linkpc.net" uuid="972f96bf-5ac8-48f9-a315-3a3e31face41">
-      <driver-ref>mysql.8</driver-ref>
+    <data-source source="LOCAL" name="dec-2022@cluster0.s2s6e3x.mongodb.net" uuid="07d4ff82-03e8-49a9-96b1-0557d994e834">
+      <driver-ref>mongo</driver-ref>
       <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://owu.linkpc.net:3306/psiuk</jdbc-url>
+      <jdbc-driver>com.dbschema.MongoJdbcDriver</jdbc-driver>
+      <jdbc-url>mongodb+srv://cluster0.s2s6e3x.mongodb.net/dec-2022</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>
